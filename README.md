@@ -1,1 +1,1 @@
-# game-table-tennis
+# game-pong
